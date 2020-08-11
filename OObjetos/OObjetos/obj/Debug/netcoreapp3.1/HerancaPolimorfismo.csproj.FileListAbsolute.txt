@@ -1,0 +1,17 @@
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.exe
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.deps.json
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.runtimeconfig.json
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.runtimeconfig.dev.json
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.dll
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\bin\Debug\netcoreapp3.1\HerancaPolimorfismo.pdb
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.dll
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.pdb
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\andre\source\repos\NETCORE\OObjetos\OObjetos\obj\Debug\netcoreapp3.1\HerancaPolimorfismo.csproj.CopyComplete

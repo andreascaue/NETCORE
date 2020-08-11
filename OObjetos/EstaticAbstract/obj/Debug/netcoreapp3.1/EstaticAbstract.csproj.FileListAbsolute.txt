@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\bin\Debug\netcoreapp3.1\EstaticAbstract.exe
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\bin\Debug\netcoreapp3.1\EstaticAbstract.deps.json
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\bin\Debug\netcoreapp3.1\EstaticAbstract.runtimeconfig.json
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\bin\Debug\netcoreapp3.1\EstaticAbstract.runtimeconfig.dev.json
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\bin\Debug\netcoreapp3.1\EstaticAbstract.dll
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\bin\Debug\netcoreapp3.1\EstaticAbstract.pdb
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\obj\Debug\netcoreapp3.1\EstaticAbstract.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\obj\Debug\netcoreapp3.1\EstaticAbstract.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\obj\Debug\netcoreapp3.1\EstaticAbstract.AssemblyInfo.cs
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\obj\Debug\netcoreapp3.1\EstaticAbstract.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\obj\Debug\netcoreapp3.1\EstaticAbstract.dll
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\obj\Debug\netcoreapp3.1\EstaticAbstract.pdb
+C:\Users\andre\source\repos\NETCORE\OObjetos\EstaticAbstract\obj\Debug\netcoreapp3.1\EstaticAbstract.genruntimeconfig.cache
